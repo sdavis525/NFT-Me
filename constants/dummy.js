@@ -4,8 +4,8 @@ const NFTData = [
   {
     id: "NFT-01",
     name: "Abstracto #312",
-    creator: "Dallas Davis",
-    price: 4.25,
+    creator: "Sophia Jordan",
+    price: 5.25,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
     image: assets.nft01,
