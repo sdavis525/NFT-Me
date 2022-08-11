@@ -12,7 +12,11 @@
 
 
 <img width="1507" alt="Screen Shot 2022-08-05 at 11 49 23 AM" src="https://user-images.githubusercontent.com/98237529/184218072-6d9ab24b-4863-4e8c-bace-aac678514ec7.png">
-![mockup](https://user-images.githubusercontent.com/98237529/184218286-d61e31b7-be11-4fee-b292-da58fe3a36e4.png)
+
+
+![mockup](https://user-images.githubusercontent.com/98237529/184218609-f4d5f369-6259-40dd-9a31-309997b4e609.png)
+
+
 
 ![home_cards](https://user-images.githubusercontent.com/98237529/184218336-3050aff7-b03a-4a42-b570-7b1b012b8f5f.png)
 
